@@ -21,3 +21,16 @@ This repository contains all the internship tasks completed during the ShadowFox
 
 ## 🏁 Final Conclusion
 The completion of Task 1 provided excellent practical experience in structural code design, logic building, and error handling using Java. Building the Enhanced Calculator helped sharpen problem-solving skills and reinforced foundational concepts required for creating scalable software applications.
+j
+j
+### 📂 Core Project Deliverables (Tasks 2 - 5)
+
+* **Task 2 - Contact Manager:** Developed an application utilizing collections to securely store, update, search, and delete individual contact records.
+* **Task 3 - Bank Account System:** Implemented precise data encapsulation features alongside strict data validation filters to block invalid amounts.
+* **Task 3 - Overdraft Protection:** Integrated logical constraint-trapping functions to automatically refuse withdrawals exceeding the total ledger balances.
+* **Task 4 - Library Registry:** Structured a localized library database application to track item entries and modify availability parameters dynamically.
+* **Task 4 - Multi-State Flags:** Designed validation checks to intercept and block duplicate borrow operations on individual items already checked out.
+* **Task 4 - Boundary Protection:** Incorporated custom error handling to safely resolve queries directed toward non-existent product IDs without crashing.
+* **Task 5 - Real-Time Chat Server:** Engineered a local network server infrastructure utilizing native Java Socket APIs to listen on specialized system ports.
+* **Task 5 - Network Client Node:** Built a socket client module capable of establishing network stream handshakes and transmitting active string payloads.
+* **Task 5 - Multi-Threaded Engine:** Deployed parallel Java execution loops allowing server and client systems to send and receive data simultaneously.
